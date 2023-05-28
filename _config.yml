@@ -18,12 +18,12 @@ timezone: Asia/Riyadh
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Bagoury # the main title
+title: Elbagoury # the main title
 
-tagline: Mohamed Elbagoury Blog # it will display as the sub-title
+tagline: Research, Training & Consulting # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Mohamed Elbagoury Blog.
+  Elbagoury: Research, Training & Consulting.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://elbagoury.github.io/"
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: img/bagoury.jpg
+avatar: assets/img/avatar.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
