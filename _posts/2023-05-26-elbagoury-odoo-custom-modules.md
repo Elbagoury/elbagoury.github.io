@@ -1,7 +1,7 @@
 ---
 title: Elbagoury Odoo custom modules library
-date: 2017-05-28 11:15:20
-categories: [Odoo , Development]
+date: 2023-05-26 11:15:20
+categories: [Odoo, Development]
 tags: [ERP, Odoo, Python]
 ---
 
