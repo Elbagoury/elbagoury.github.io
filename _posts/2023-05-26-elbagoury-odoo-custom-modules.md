@@ -5,9 +5,12 @@ categories: [Python, Javascript, Odoo]
 tags: [Python, Javascript, Odoo]
 ---
 
+Odoo custom modules are extensions to the Odoo open-source software. They can be used to add new features, change existing features, or fix bugs. Custom modules are written in Python and are installed in the Odoo database.
+
 # Elbagoury Odoo custom modules library
-This collection of modules (7000) has been compiled over the past twelve years.
-Module | Module | Module | Module
+This collection of 7,000 modules has been compiled over the past 12 years.
+
+Module | Module | Module | Module |
 ---- | ---- |---- |---- |
 a3erp_contract_import |	document_quick_access_field | muk_bundle_quality_docs |	rest_log |
 abadr |	document_quick_access_label |	muk_bundle_theme |	restricted_task_following |

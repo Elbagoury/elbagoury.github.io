@@ -4,18 +4,13 @@ date: 2011-08-20 12:15:20
 categories: [Linux, DevOps, Odoo]
 tags: [Linux, DevOps, Odoo]
 ---
-## Tables
 
-| Company                      | Contact          | Country |
-|:-----------------------------|:-----------------|--------:|
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    | UK      |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
+Bash, or the Bourne-Again Shell, is a command-line interpreter and shell scripting language. It is the default shell for most Linux distributions and macOS. Bash is a powerful tool that can be used to automate tasks, manage files and directories, and interact with the operating system.
 
 # Bash Basic
 
-| Command | Usage |
-|:------------ |:-------------:|
+| Command               | Usage        |
+|:------------          |:-------------|
 |`sudo su - <any user>` | Change user |
 |`ls / ls  -l ` | Show all files & directories |
 |`pwd` | Show current  directory |
