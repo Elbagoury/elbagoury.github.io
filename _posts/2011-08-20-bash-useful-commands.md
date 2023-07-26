@@ -4,7 +4,16 @@ date: 2011-08-20 12:15:20
 categories: [Linux, DevOps, Odoo]
 tags: [Linux, DevOps, Odoo]
 ---
+## Tables
+
+| Company                      | Contact          | Country |
+|:-----------------------------|:-----------------|--------:|
+| Alfreds Futterkiste          | Maria Anders     | Germany |
+| Island Trading               | Helen Bennett    | UK      |
+| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
+
 # Bash Basic
+
 | Command | Usage |
 |:------------ |:-------------:|
 |`sudo su - <any user>` | Change user |
