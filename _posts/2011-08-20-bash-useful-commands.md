@@ -5,15 +5,15 @@ categories: [Linux, DevOps, Odoo]
 tags: [Linux, DevOps, Odoo]
 ---
 # Bash Basic
-Command | Usage
------------- | -------------
-`sudo su - <any user>` | Change user
-`ls / ls  -l ` | Show all files & directories
-`pwd` | Show current  directory:
-`cd` | Change directory: `cd /opt`  to go up `cd..`
-`mv` | Move files and directories `mv *.zip ../zip`
-`mkdir` | Create directory
-`find` | to find anything `find . -name "*.py"`
+| Command | Usage |
+|:------------ |:-------------:|
+|`sudo su - <any user>` | Change user |
+|`ls / ls  -l ` | Show all files & directories |
+|`pwd` | Show current  directory |
+|`cd` | Change directory: `cd /opt`  to go up `cd..` |
+|`mv` | Move files and directories `mv *.zip ../zip` |
+|`mkdir` | Create directory |
+|`find` | to find anything `find . -name "*.py"` |
 
 Zip my modules all at once
 
