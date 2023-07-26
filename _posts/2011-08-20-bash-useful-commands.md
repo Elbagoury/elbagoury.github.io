@@ -2,7 +2,7 @@
 title: Bash useful commands
 date: 2011-08-20 12:15:20
 categories: [DevOps, Linux]
-tags: [DevOps, Linux]
+tags: [DevOps, Linux, Bash]
 ---
 
 Bash, or the Bourne-Again Shell, is a command-line interpreter and shell scripting language. It is the default shell for most Linux distributions and macOS. Bash is a powerful tool that can be used to automate tasks, manage files and directories, and interact with the operating system.
