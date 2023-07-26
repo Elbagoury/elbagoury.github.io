@@ -1,8 +1,8 @@
 ---
 title: Elbagoury Odoo custom modules library
 date: 2017-05-28 11:15:20
-categories: [Python, Javascript, Odoo]
-tags: [Python, Javascript, Odoo]
+categories: [Odoo , Development]
+tags: [ERP, Odoo, Python]
 ---
 
 Odoo custom modules are extensions to the Odoo open-source software. They can be used to add new features, change existing features, or fix bugs. Custom modules are written in Python and are installed in the Odoo database.

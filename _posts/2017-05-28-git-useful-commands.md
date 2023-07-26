@@ -1,8 +1,8 @@
 ---
 title: Git and Github useful commands
 date: 2017-05-28 11:15:20
-categories: [Git, Github, DevOps, Odoo]
-tags: [Git, Github, DevOps, Odoo]
+categories: [DevOps, Git]
+tags: [DevOps, Git, Github]
 ---
 Git is a distributed version control system (DVCS) that is used to track changes in computer files. It is often used for coordinating work among programmers collaboratively developing source code during software development.
 
