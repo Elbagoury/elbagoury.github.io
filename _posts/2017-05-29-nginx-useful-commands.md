@@ -3,6 +3,8 @@ title: Nginx useful commands
 date: 2017-05-29 12:15:20
 categories: [DevOps, Nginx]
 tags: [Nginx]
+image:
+  path: assets/img/posts/nginx.png
 ---
 Nginx (pronounced "engine-x") is a free and open-source web server, reverse proxy, load balancer, mail proxy, and HTTP cache. It is known for its high performance, stability, and scalability. Nginx is used by many large websites.
 
