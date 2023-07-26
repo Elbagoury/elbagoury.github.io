@@ -10,6 +10,9 @@ _site
 # RubyGems
 *.gem
 
+#Python
+.env*
+
 # NPM dependencies
 node_modules
 package-lock.json
