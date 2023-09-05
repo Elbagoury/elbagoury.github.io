@@ -1,7 +1,7 @@
 ---
 title: Nginx Configuration for Odoo
 date: 2017-05-29 12:15:20
-categories: [DevOps, Nginx]
+categories: [DevOps, Odoo, Nginx]
 tags: [Nginx]
 image: /assets/img/posts/nginx.png
 ---
