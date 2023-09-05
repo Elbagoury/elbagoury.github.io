@@ -1,15 +1,10 @@
 ---
-title: Nginx useful commands
+title: Nginx Configuration for Odoo
 date: 2017-05-29 12:15:20
 categories: [DevOps, Nginx]
 tags: [Nginx]
 image: /assets/img/posts/nginx.png
 ---
-Nginx (pronounced "engine-x") is a free and open-source web server, reverse proxy, load balancer, mail proxy, and HTTP cache. It is known for its high performance, stability, and scalability. Nginx is used by many large websites.
-Certainly! Below is a Markdown-formatted guide for configuring Nginx for an Odoo deployment:
-
-# Nginx Configuration for Odoo
-
 Nginx is a popular web server and reverse proxy that can be used to efficiently serve Odoo applications. This guide will walk you through the steps to set up Nginx for your Odoo deployment.
 
 ## Prerequisites
